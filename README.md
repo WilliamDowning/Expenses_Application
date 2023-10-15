@@ -1,4 +1,4 @@
-##This project is a small project to refresh my skills within python environments that would benefit me in the managing of my own expenses.
+# This project is a small project to refresh my skills within python environments that would benefit me in the managing of my own expenses.
 
 To start off, the project will simply be a data entry tool for expenses made month by month. Hopefully I will eventually have it set up for monthly payments and loans for when they are being paid.
 
